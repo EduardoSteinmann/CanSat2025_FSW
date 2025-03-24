@@ -109,7 +109,7 @@ extern "C"
    * @param  None
    * @retval Pressure in Kilo Pascal
    */
-  MS5607Readings MS5607ReadValues(void);
+MS5607Readings MS5607ReadValues(void);
 
   /**
    * @brief  Enables the chip select pin
