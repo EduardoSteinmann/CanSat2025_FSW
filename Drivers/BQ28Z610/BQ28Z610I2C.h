@@ -9,6 +9,7 @@
 #define BQ28Z610_BQ28Z610I2C_H_
 
 #include "stm32g4xx_hal.h"
+#include <stdint.h>
 
 typedef struct BQ28Z610_Voltage
 {
